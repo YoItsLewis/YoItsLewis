@@ -4,8 +4,8 @@ Research Group: https://www.centreforbiophotonics.com/ <br />
 LinkedIn: www.linkedin.com/in/lewis-walker-physics <br />
 
 Collaborative Repositories: <br />
-- Fourier Ptychography Microscopy: <br />
-- https://github.com/lauracopeland/FPM <br />
+-Fourier Ptychography Microscopy: <br />
+-https://github.com/lauracopeland/FPM <br />
 
 
 <!---
