@@ -1,10 +1,10 @@
-A PhD student playing around with computational microscopy code @ the Univserity of Strathclyde - Centre For Biophotonics Group. <br />
+A PhD student playing around with computational microscopy code @ the **Univserity of Strathclyde** - **Centre For Biophotonics Group**. <br />
 
-Research Group: https://www.centreforbiophotonics.com/ <br />
-LinkedIn: www.linkedin.com/in/lewis-walker-physics <br />
+**Research Group**: https://www.centreforbiophotonics.com/ <br />
+**LinkedIn**: www.linkedin.com/in/lewis-walker-physics <br />
 
 Collaborative Repositories: <br />
--Fourier Ptychography Microscopy: <br />
+-**Fourier Ptychography Microscopy**: <br />
 -https://github.com/lauracopeland/FPM <br />
 
 
