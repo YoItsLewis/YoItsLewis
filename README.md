@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @YoItsLewis
-- 👀 I’m interested in Physics
-- 🌱 I’m currently learning Physics
-- 💞️ I’m looking to collaborate on Physics
-- 📫 How to reach me, Physics
+A PhD student playing around with computational microscopy code @ the Univserity of Strathclyde - Centre For Biophotonics Group.
+
+Group: https://www.centreforbiophotonics.com/
+Linked In: www.linkedin.com/in/lewis-walker-physics
+
+Collaborative Repositories:
+-Fourier Ptychography Microscopy:
+  - https://github.com/lauracopeland/FPM
+
 
 <!---
 YoItsLewis/YoItsLewis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
