@@ -3,7 +3,7 @@ A PhD student playing around with computational microscopy code @ the **Univseri
 **Research Group**: https://www.centreforbiophotonics.com/ <br />
 
 Collaborative Repositories: <br />
--**Fourier Ptychography Microscopy**: <br />
+**Fourier Ptychography Microscopy**: <br />
 -https://github.com/lauracopeland/FPM <br />
 
 
