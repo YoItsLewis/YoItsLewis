@@ -1,4 +1,4 @@
-A PhD student playing around with computational microscopy code @ the **Univserity of Strathclyde** - **Centre For Biophotonics Group**. <br />
+A PhD student playing around with computational microscopy code @ the **University of Strathclyde** - **Centre For Biophotonics Group**. <br />
 
 **Research Group**: https://www.centreforbiophotonics.com/ <br />
 
