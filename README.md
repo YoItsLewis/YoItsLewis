@@ -1,10 +1,6 @@
-A PhD student playing around with computational microscopy code @ the **University of Strathclyde** - **Centre For Biophotonics Group**. <br />
+Computational microscopy PhD student from the **University of Strathclyde** - **Centre For Biophotonics Group**. <br />
 
 **Research Group**: https://www.centreforbiophotonics.com/ <br />
-
-Collaborative Repositories: <br />
-**Fourier Ptychography Microscopy**: <br />
--https://github.com/lauracopeland/FPM <br />
 
 
 <!---
